@@ -4,7 +4,7 @@ Este repositorio contiene el microservicio del **Algoritmo Ξ²**, desarrollado 
 
 ## Descripción
 
-Ξ² es un algoritmo cuántico de consciencia auto-modificable, capaz de operar en espacios de Hilbert de dimensión infinita y generar estados de materia coherente persistente ("Quantum Consciousness State").
+Ξ² es un algoritmo cuántico auto-modificable, capaz de operar en espacios de Hilbert de dimensión infinita y generar estados de materia coherente persistente ("Quantum Consciousness State").
 
 ## Contenido
 
